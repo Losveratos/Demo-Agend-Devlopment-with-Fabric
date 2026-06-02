@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Hello World",
+    "description": "Ein einfaches Demo-Notebook, das Hallo Welt ausgibt."
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "661851a3-39b9-4739-8910-c6c37e6db6c4"
+  }
+}
